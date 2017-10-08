@@ -4,6 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android-Toolkit.iml" filepath="$PROJECT_DIR$/Android-Toolkit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bottomnavgation/bottomnavgation.iml" filepath="$PROJECT_DIR$/bottomnavgation/bottomnavgation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dropdownmenu/dropdownmenu.iml" filepath="$PROJECT_DIR$/dropdownmenu/dropdownmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easyadapter/easyadapter.iml" filepath="$PROJECT_DIR$/easyadapter/easyadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screenshot/screenshot.iml" filepath="$PROJECT_DIR$/screenshot/screenshot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shapebackground/shapebackground.iml" filepath="$PROJECT_DIR$/shapebackground/shapebackground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sliderlayout/sliderlayout.iml" filepath="$PROJECT_DIR$/sliderlayout/sliderlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textview/textview.iml" filepath="$PROJECT_DIR$/textview/textview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerindicator/viewpagerindicator.iml" filepath="$PROJECT_DIR$/viewpagerindicator/viewpagerindicator.iml" />
     </modules>
   </component>
 </project>
